@@ -71,7 +71,7 @@ your Files Should be update
 Address must be same as deplyed contracts
 ```
 ## Result
-![result](https://github.com/Uday-1099/smart-contract/assets/136918622/0afbd299-0fd9-4330-a894-0c66e4c4de7f)
+![result](
 
 ## Author
 Uday Kumar
