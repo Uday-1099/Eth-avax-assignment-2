@@ -68,10 +68,11 @@ contract Eth-avax mod 2 {
 ```
 npm i (please must install node js for running this command)
 your Files Should be update
-Address must be same as deplyed contracts
+Address must be same as deployed contracts
 ```
 ## Result
-![result](
+![result](![image](https://github.com/Uday-1099/Eth-avax-assignment-2/assets/138562538/0fab31b8-2b84-4580-9326-6c0ff13c0c09)
+
 
 ## Author
 Uday Kumar
